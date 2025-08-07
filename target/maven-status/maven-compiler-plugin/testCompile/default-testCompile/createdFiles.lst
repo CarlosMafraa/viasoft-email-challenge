@@ -1,0 +1,6 @@
+com\viasoft\challenge\email_challenge\controller\EmailControllerTest.class
+com\viasoft\challenge\email_challenge\service\strategy\OciEmailStrategyTest.class
+com\viasoft\challenge\email_challenge\EmailChallengeApplicationTests.class
+com\viasoft\challenge\email_challenge\mapper\EmailMapperTest.class
+com\viasoft\challenge\email_challenge\service\strategy\AwsEmailStrategyTest.class
+com\viasoft\challenge\email_challenge\service\EmailServiceTest.class

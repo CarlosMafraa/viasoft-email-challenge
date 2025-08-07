@@ -1,0 +1,11 @@
+com\viasoft\challenge\email_challenge\exception\GlobalExceptionHandler.class
+com\viasoft\challenge\email_challenge\dto\EmailAwsDTO.class
+com\viasoft\challenge\email_challenge\service\strategy\EmailStrategy.class
+com\viasoft\challenge\email_challenge\EmailChallengeApplication.class
+com\viasoft\challenge\email_challenge\service\strategy\AwsEmailStrategy.class
+com\viasoft\challenge\email_challenge\mapper\EmailMapper.class
+com\viasoft\challenge\email_challenge\service\strategy\OciEmailStrategy.class
+com\viasoft\challenge\email_challenge\dto\EmailRequestDTO.class
+com\viasoft\challenge\email_challenge\service\EmailService.class
+com\viasoft\challenge\email_challenge\controller\EmailController.class
+com\viasoft\challenge\email_challenge\dto\EmailOciDTO.class

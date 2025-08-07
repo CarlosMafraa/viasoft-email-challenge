@@ -1,0 +1,11 @@
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\controller\EmailController.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\dto\EmailAwsDTO.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\dto\EmailOciDTO.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\dto\EmailRequestDTO.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\EmailChallengeApplication.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\exception\GlobalExceptionHandler.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\mapper\EmailMapper.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\service\EmailService.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\service\strategy\AwsEmailStrategy.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\service\strategy\EmailStrategy.java
+D:\Projetos\Pessoais\viasoft-email-challenge\src\main\java\com\viasoft\challenge\email_challenge\service\strategy\OciEmailStrategy.java
