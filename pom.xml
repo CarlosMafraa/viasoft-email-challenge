@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.viasoft.challenge</groupId>
-	<artifactId>email-challenge</artifactId>
+	<artifactId>viasoft-email-challenge</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>email-challenge</name>
+	<name>viasoft-email-challenge</name>
 	<description>API RESTful para processamento de e-mails com simulação de integração com AWS e OCI, construída com Spring Boot</description>
 	<url/>
 	<licenses>
