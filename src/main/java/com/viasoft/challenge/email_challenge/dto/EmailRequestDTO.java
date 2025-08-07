@@ -5,21 +5,14 @@ import jakarta.validation.constraints.NotBlank;
 
 public class EmailRequestDTO {
 
-//    @NotBlank(message = "O email do destinatário é obrigatório")
-//    @Email(message = "O email do destinatário deve ser válido")
     private String recipientEmail;
 
-//    @NotBlank(message = "O nome do destinatário é obrigatório")
     private String recipientName;
 
-//    @NotBlank(message = "O email do remetente é obrigatório")
-//    @Email(message = "O email do remetente deve ser válido")
     private String senderEmail;
 
-//    @NotBlank(message = "O assunto é obrigatório")
     private String subject;
 
-//    @NotBlank(message = "O conteúdo é obrigatório")
     private String content;
 
     public EmailRequestDTO() {
